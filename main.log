@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.23)  24 JUL 2016 22:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.23)  24 JUL 2016 22:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -949,7 +949,7 @@ exlive/2015/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/201
 5/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2015/texmf-
 dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2015/texmf-dist/font
 s/type1/public/marvosym/marvosym.pfb>
-Output written on main.pdf (2 pages, 102553 bytes).
+Output written on main.pdf (2 pages, 102451 bytes).
 PDF statistics:
  67 PDF objects out of 1000 (max. 8388607)
  57 compressed objects within 1 object stream
